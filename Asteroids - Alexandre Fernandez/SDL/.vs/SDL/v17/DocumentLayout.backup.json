@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Asteroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Asteroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameplayScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:GameplayScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoreManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:HighscoreManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoresScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:HighscoresScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\MenuScenes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:MenuScenes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\UIText.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:UIText.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Asteroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Asteroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:Spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameplayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:GameplayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoreManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:HighscoreManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoresScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:HighscoresScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\MenuScenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:MenuScenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\UIText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E8D80F4-9D8F-42EE-957E-511824062F77}|SDL.vcxproj|solutionrelative:UIText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuScenes.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\MenuScenes.h",
+              "RelativeDocumentMoniker": "MenuScenes.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\MenuScenes.h",
+              "RelativeToolTip": "MenuScenes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T10:18:53.105Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HighscoreManager.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoreManager.cpp",
+              "RelativeDocumentMoniker": "HighscoreManager.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoreManager.cpp",
+              "RelativeToolTip": "HighscoreManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T21:17:30.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighscoreManager.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoreManager.h",
+              "RelativeDocumentMoniker": "HighscoreManager.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoreManager.h",
+              "RelativeToolTip": "HighscoreManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T21:17:24.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T17:47:39.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T17:47:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T16:32:59.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asteroid.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Asteroid.h",
+              "RelativeDocumentMoniker": "Asteroid.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Asteroid.h",
+              "RelativeToolTip": "Asteroid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T14:41:49.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Asteroid.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Asteroid.cpp",
+              "RelativeDocumentMoniker": "Asteroid.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Asteroid.cpp",
+              "RelativeToolTip": "Asteroid.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T14:41:32.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Projectile.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Projectile.cpp",
+              "RelativeDocumentMoniker": "Projectile.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Projectile.cpp",
+              "RelativeToolTip": "Projectile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T08:59:18.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projectile.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Projectile.h",
+              "RelativeDocumentMoniker": "Projectile.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Projectile.h",
+              "RelativeToolTip": "Projectile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T08:58:52.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UIText.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\UIText.cpp",
+              "RelativeDocumentMoniker": "UIText.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\UIText.cpp",
+              "RelativeToolTip": "UIText.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T09:59:50.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameObject.h",
+              "RelativeDocumentMoniker": "GameObject.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameObject.h",
+              "RelativeToolTip": "GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-09T10:34:58.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InputManager.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\InputManager.cpp",
+              "RelativeDocumentMoniker": "InputManager.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\InputManager.cpp",
+              "RelativeToolTip": "InputManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T10:19:52.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputManager.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\InputManager.h",
+              "RelativeDocumentMoniker": "InputManager.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\InputManager.h",
+              "RelativeToolTip": "InputManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-09T10:19:38.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameObject.cpp",
+              "RelativeDocumentMoniker": "GameObject.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameObject.cpp",
+              "RelativeToolTip": "GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T11:54:49.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameEngine.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameEngine.cpp",
+              "RelativeDocumentMoniker": "GameEngine.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameEngine.cpp",
+              "RelativeToolTip": "GameEngine.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T10:51:12.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameEngine.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameEngine.h",
+              "RelativeDocumentMoniker": "GameEngine.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameEngine.h",
+              "RelativeToolTip": "GameEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T10:07:37.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Scene.h",
+              "RelativeDocumentMoniker": "Scene.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Scene.h",
+              "RelativeToolTip": "Scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T10:36:12.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HighscoresScene.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoresScene.cpp",
+              "RelativeDocumentMoniker": "HighscoresScene.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoresScene.cpp",
+              "RelativeToolTip": "HighscoresScene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T10:41:34.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuScenes.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\MenuScenes.cpp",
+              "RelativeDocumentMoniker": "MenuScenes.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\MenuScenes.cpp",
+              "RelativeToolTip": "MenuScenes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T10:37:54.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UIText.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\UIText.h",
+              "RelativeDocumentMoniker": "UIText.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\UIText.h",
+              "RelativeToolTip": "UIText.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T09:59:34.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-09T10:35:27.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spaceship.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Spaceship.h",
+              "RelativeDocumentMoniker": "Spaceship.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Spaceship.h",
+              "RelativeToolTip": "Spaceship.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-09T11:39:19.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Spaceship.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Spaceship.cpp",
+              "RelativeDocumentMoniker": "Spaceship.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\Spaceship.cpp",
+              "RelativeToolTip": "Spaceship.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T11:39:37.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameplayScene.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameplayScene.cpp",
+              "RelativeDocumentMoniker": "GameplayScene.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameplayScene.cpp",
+              "RelativeToolTip": "GameplayScene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T10:41:34.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameplayScene.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameplayScene.h",
+              "RelativeDocumentMoniker": "GameplayScene.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\GameplayScene.h",
+              "RelativeToolTip": "GameplayScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T10:39:38.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HighscoresScene.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoresScene.h",
+              "RelativeDocumentMoniker": "HighscoresScene.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Desktop\\PORSIACA\\Asteroids - Alexandre Fernandez\\SDL\\HighscoresScene.h",
+              "RelativeToolTip": "HighscoresScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T10:39:35.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
